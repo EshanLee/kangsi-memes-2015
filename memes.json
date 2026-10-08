@@ -1,0 +1,895 @@
+{
+  "generated_at": "2026-10-08T14:23:31",
+  "base_url": "https://eshanlee.github.io/kangsi-memes-2015",
+  "n_episodes": 2,
+  "n_memes": 68,
+  "emotions": {
+    "中箭": [
+      "中槍",
+      "被打槍",
+      "中刀",
+      "被戳到"
+    ],
+    "糗": [
+      "好糗",
+      "丟臉"
+    ],
+    "哭": [
+      "哭了",
+      "大哭",
+      "感動",
+      "難過"
+    ],
+    "竊笑": [
+      "偷笑",
+      "賊笑"
+    ],
+    "大笑": [
+      "笑死",
+      "爆笑",
+      "哈哈",
+      "哈哈哈"
+    ],
+    "玩笑": [
+      "開玩笑",
+      "鬧"
+    ],
+    "結巴": [
+      "語塞",
+      "卡住"
+    ],
+    "受傷": [
+      "心痛",
+      "內傷"
+    ],
+    "激不得": [
+      "激將"
+    ],
+    "震驚": [
+      "嚇到",
+      "驚訝",
+      "吃驚"
+    ],
+    "傻眼": [
+      "無言",
+      "傻了",
+      "黑人問號"
+    ],
+    "生氣": [
+      "火大",
+      "不爽",
+      "氣"
+    ],
+    "尷尬": [
+      "好尷尬",
+      "冷場"
+    ],
+    "害羞": [
+      "臉紅",
+      "嬌羞"
+    ],
+    "得意": [
+      "驕傲",
+      "囂張"
+    ],
+    "崩潰": [
+      "抓狂",
+      "暈倒"
+    ],
+    "愣": [],
+    "白眼": [],
+    "鬆一口氣": []
+  },
+  "episodes": {
+    "20150101": {
+      "title": "康熙年度總結大會親子篇",
+      "air_date": "2015-01-01",
+      "youtube_id": "4hgC8S9Tvs0",
+      "url": "https://www.youtube.com/watch?v=4hgC8S9Tvs0",
+      "hosts": [
+        "蔡康永",
+        "小S"
+      ],
+      "guests": [
+        "歐陽龍",
+        "歐陽妮妮",
+        "陳博正",
+        "陳怡嘉",
+        "Julie",
+        "娜娜",
+        "王月",
+        "李思源",
+        "林葉亭",
+        "Bruce"
+      ]
+    },
+    "20150617": {
+      "title": "大S的愛女狂想曲I",
+      "air_date": "2015-06-17",
+      "youtube_id": "5n9d9GuNz9o",
+      "url": "https://www.youtube.com/watch?v=5n9d9GuNz9o",
+      "hosts": [
+        "蔡康永",
+        "小S"
+      ],
+      "guests": [
+        "大S(徐熙媛)",
+        "小S(徐熙娣)"
+      ]
+    }
+  },
+  "memes": [
+    {
+      "id": "20150101_000087.000s",
+      "video_id": "20150101",
+      "time_sec": 87.0,
+      "timecode": "00:01:27.000",
+      "subtitle": "事情並不是這個樣子的",
+      "emotions": [],
+      "image_url": "https://eshanlee.github.io/kangsi-memes-2015/images/20150101/20150101_000087.000s.jpg",
+      "thumb_url": "https://eshanlee.github.io/kangsi-memes-2015/thumbs/20150101/20150101_000087.000s.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=4hgC8S9Tvs0&t=87s"
+    },
+    {
+      "id": "20150101_000103.000s",
+      "video_id": "20150101",
+      "time_sec": 103.0,
+      "timecode": "00:01:43.000",
+      "subtitle": "閉嘴是我想對妳說的話",
+      "emotions": [],
+      "image_url": "https://eshanlee.github.io/kangsi-memes-2015/images/20150101/20150101_000103.000s.jpg",
+      "thumb_url": "https://eshanlee.github.io/kangsi-memes-2015/thumbs/20150101/20150101_000103.000s.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=4hgC8S9Tvs0&t=103s"
+    },
+    {
+      "id": "20150101_000105.000s",
+      "video_id": "20150101",
+      "time_sec": 105.0,
+      "timecode": "00:01:45.000",
+      "subtitle": "",
+      "emotions": [
+        "中箭"
+      ],
+      "image_url": "https://eshanlee.github.io/kangsi-memes-2015/images/20150101/20150101_000105.000s.jpg",
+      "thumb_url": "https://eshanlee.github.io/kangsi-memes-2015/thumbs/20150101/20150101_000105.000s.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=4hgC8S9Tvs0&t=105s"
+    },
+    {
+      "id": "20150101_000108.000s",
+      "video_id": "20150101",
+      "time_sec": 108.0,
+      "timecode": "00:01:48.000",
+      "subtitle": "沉默就可以了",
+      "emotions": [],
+      "image_url": "https://eshanlee.github.io/kangsi-memes-2015/images/20150101/20150101_000108.000s.jpg",
+      "thumb_url": "https://eshanlee.github.io/kangsi-memes-2015/thumbs/20150101/20150101_000108.000s.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=4hgC8S9Tvs0&t=108s"
+    },
+    {
+      "id": "20150101_000166.000s",
+      "video_id": "20150101",
+      "time_sec": 166.0,
+      "timecode": "00:02:46.000",
+      "subtitle": "你長得好像康永喔",
+      "emotions": [],
+      "image_url": "https://eshanlee.github.io/kangsi-memes-2015/images/20150101/20150101_000166.000s.jpg",
+      "thumb_url": "https://eshanlee.github.io/kangsi-memes-2015/thumbs/20150101/20150101_000166.000s.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=4hgC8S9Tvs0&t=166s"
+    },
+    {
+      "id": "20150101_000167.000s",
+      "video_id": "20150101",
+      "time_sec": 167.0,
+      "timecode": "00:02:47.000",
+      "subtitle": "那很帥啊",
+      "emotions": [],
+      "image_url": "https://eshanlee.github.io/kangsi-memes-2015/images/20150101/20150101_000167.000s.jpg",
+      "thumb_url": "https://eshanlee.github.io/kangsi-memes-2015/thumbs/20150101/20150101_000167.000s.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=4hgC8S9Tvs0&t=167s"
+    },
+    {
+      "id": "20150101_000168.000s",
+      "video_id": "20150101",
+      "time_sec": 168.0,
+      "timecode": "00:02:48.000",
+      "subtitle": "那很帥啊",
+      "emotions": [],
+      "image_url": "https://eshanlee.github.io/kangsi-memes-2015/images/20150101/20150101_000168.000s.jpg",
+      "thumb_url": "https://eshanlee.github.io/kangsi-memes-2015/thumbs/20150101/20150101_000168.000s.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=4hgC8S9Tvs0&t=168s"
+    },
+    {
+      "id": "20150101_000178.000s",
+      "video_id": "20150101",
+      "time_sec": 178.0,
+      "timecode": "00:02:58.000",
+      "subtitle": "我只能說你的鳥很黑",
+      "emotions": [],
+      "image_url": "https://eshanlee.github.io/kangsi-memes-2015/images/20150101/20150101_000178.000s.jpg",
+      "thumb_url": "https://eshanlee.github.io/kangsi-memes-2015/thumbs/20150101/20150101_000178.000s.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=4hgC8S9Tvs0&t=178s"
+    },
+    {
+      "id": "20150101_000285.000s",
+      "video_id": "20150101",
+      "time_sec": 285.0,
+      "timecode": "00:04:45.000",
+      "subtitle": "對啊就差不多是這樣",
+      "emotions": [],
+      "image_url": "https://eshanlee.github.io/kangsi-memes-2015/images/20150101/20150101_000285.000s.jpg",
+      "thumb_url": "https://eshanlee.github.io/kangsi-memes-2015/thumbs/20150101/20150101_000285.000s.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=4hgC8S9Tvs0&t=285s"
+    },
+    {
+      "id": "20150101_000437.000s",
+      "video_id": "20150101",
+      "time_sec": 437.0,
+      "timecode": "00:07:17.000",
+      "subtitle": "我從來沒有問這個問題啊",
+      "emotions": [],
+      "image_url": "https://eshanlee.github.io/kangsi-memes-2015/images/20150101/20150101_000437.000s.jpg",
+      "thumb_url": "https://eshanlee.github.io/kangsi-memes-2015/thumbs/20150101/20150101_000437.000s.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=4hgC8S9Tvs0&t=437s"
+    },
+    {
+      "id": "20150101_000451.000s",
+      "video_id": "20150101",
+      "time_sec": 451.0,
+      "timecode": "00:07:31.000",
+      "subtitle": "按讀",
+      "emotions": [],
+      "image_url": "https://eshanlee.github.io/kangsi-memes-2015/images/20150101/20150101_000451.000s.jpg",
+      "thumb_url": "https://eshanlee.github.io/kangsi-memes-2015/thumbs/20150101/20150101_000451.000s.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=4hgC8S9Tvs0&t=451s"
+    },
+    {
+      "id": "20150101_000651.000s",
+      "video_id": "20150101",
+      "time_sec": 651.0,
+      "timecode": "00:10:51.000",
+      "subtitle": "我要哭了",
+      "emotions": [],
+      "image_url": "https://eshanlee.github.io/kangsi-memes-2015/images/20150101/20150101_000651.000s.jpg",
+      "thumb_url": "https://eshanlee.github.io/kangsi-memes-2015/thumbs/20150101/20150101_000651.000s.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=4hgC8S9Tvs0&t=651s"
+    },
+    {
+      "id": "20150101_000657.000s",
+      "video_id": "20150101",
+      "time_sec": 657.0,
+      "timecode": "00:10:57.000",
+      "subtitle": "她們慢慢在長大",
+      "emotions": [],
+      "image_url": "https://eshanlee.github.io/kangsi-memes-2015/images/20150101/20150101_000657.000s.jpg",
+      "thumb_url": "https://eshanlee.github.io/kangsi-memes-2015/thumbs/20150101/20150101_000657.000s.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=4hgC8S9Tvs0&t=657s"
+    },
+    {
+      "id": "20150101_000734.000s",
+      "video_id": "20150101",
+      "time_sec": 734.0,
+      "timecode": "00:12:14.000",
+      "subtitle": "大翻白眼",
+      "emotions": [
+        "白眼"
+      ],
+      "image_url": "https://eshanlee.github.io/kangsi-memes-2015/images/20150101/20150101_000734.000s.jpg",
+      "thumb_url": "https://eshanlee.github.io/kangsi-memes-2015/thumbs/20150101/20150101_000734.000s.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=4hgC8S9Tvs0&t=734s"
+    },
+    {
+      "id": "20150101_000738.000s",
+      "video_id": "20150101",
+      "time_sec": 738.0,
+      "timecode": "00:12:18.000",
+      "subtitle": "",
+      "emotions": [
+        "白眼"
+      ],
+      "image_url": "https://eshanlee.github.io/kangsi-memes-2015/images/20150101/20150101_000738.000s.jpg",
+      "thumb_url": "https://eshanlee.github.io/kangsi-memes-2015/thumbs/20150101/20150101_000738.000s.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=4hgC8S9Tvs0&t=738s"
+    },
+    {
+      "id": "20150101_000784.000s",
+      "video_id": "20150101",
+      "time_sec": 784.0,
+      "timecode": "00:13:04.000",
+      "subtitle": "歐陽妮妮",
+      "emotions": [
+        "白眼"
+      ],
+      "image_url": "https://eshanlee.github.io/kangsi-memes-2015/images/20150101/20150101_000784.000s.jpg",
+      "thumb_url": "https://eshanlee.github.io/kangsi-memes-2015/thumbs/20150101/20150101_000784.000s.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=4hgC8S9Tvs0&t=784s"
+    },
+    {
+      "id": "20150101_000826.000s",
+      "video_id": "20150101",
+      "time_sec": 826.0,
+      "timecode": "00:13:46.000",
+      "subtitle": "算我沒有問 對不起",
+      "emotions": [],
+      "image_url": "https://eshanlee.github.io/kangsi-memes-2015/images/20150101/20150101_000826.000s.jpg",
+      "thumb_url": "https://eshanlee.github.io/kangsi-memes-2015/thumbs/20150101/20150101_000826.000s.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=4hgC8S9Tvs0&t=826s"
+    },
+    {
+      "id": "20150101_000962.000s",
+      "video_id": "20150101",
+      "time_sec": 962.0,
+      "timecode": "00:16:02.000",
+      "subtitle": "愛開玩笑",
+      "emotions": [],
+      "image_url": "https://eshanlee.github.io/kangsi-memes-2015/images/20150101/20150101_000962.000s.jpg",
+      "thumb_url": "https://eshanlee.github.io/kangsi-memes-2015/thumbs/20150101/20150101_000962.000s.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=4hgC8S9Tvs0&t=962s"
+    },
+    {
+      "id": "20150101_001113.000s",
+      "video_id": "20150101",
+      "time_sec": 1113.0,
+      "timecode": "00:18:33.000",
+      "subtitle": "我也常會用這一招啦",
+      "emotions": [],
+      "image_url": "https://eshanlee.github.io/kangsi-memes-2015/images/20150101/20150101_001113.000s.jpg",
+      "thumb_url": "https://eshanlee.github.io/kangsi-memes-2015/thumbs/20150101/20150101_001113.000s.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=4hgC8S9Tvs0&t=1113s"
+    },
+    {
+      "id": "20150101_001373.000s",
+      "video_id": "20150101",
+      "time_sec": 1373.0,
+      "timecode": "00:22:53.000",
+      "subtitle": "他是因爲這麼累 才不洗澡嗎",
+      "emotions": [],
+      "image_url": "https://eshanlee.github.io/kangsi-memes-2015/images/20150101/20150101_001373.000s.jpg",
+      "thumb_url": "https://eshanlee.github.io/kangsi-memes-2015/thumbs/20150101/20150101_001373.000s.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=4hgC8S9Tvs0&t=1373s"
+    },
+    {
+      "id": "20150101_001403.000s",
+      "video_id": "20150101",
+      "time_sec": 1403.0,
+      "timecode": "00:23:23.000",
+      "subtitle": "他會醒來吧",
+      "emotions": [],
+      "image_url": "https://eshanlee.github.io/kangsi-memes-2015/images/20150101/20150101_001403.000s.jpg",
+      "thumb_url": "https://eshanlee.github.io/kangsi-memes-2015/thumbs/20150101/20150101_001403.000s.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=4hgC8S9Tvs0&t=1403s"
+    },
+    {
+      "id": "20150101_001431.000s",
+      "video_id": "20150101",
+      "time_sec": 1431.0,
+      "timecode": "00:23:51.000",
+      "subtitle": "叫他醒",
+      "emotions": [],
+      "image_url": "https://eshanlee.github.io/kangsi-memes-2015/images/20150101/20150101_001431.000s.jpg",
+      "thumb_url": "https://eshanlee.github.io/kangsi-memes-2015/thumbs/20150101/20150101_001431.000s.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=4hgC8S9Tvs0&t=1431s"
+    },
+    {
+      "id": "20150101_001432.000s",
+      "video_id": "20150101",
+      "time_sec": 1432.0,
+      "timecode": "00:23:52.000",
+      "subtitle": "起來撐住",
+      "emotions": [],
+      "image_url": "https://eshanlee.github.io/kangsi-memes-2015/images/20150101/20150101_001432.000s.jpg",
+      "thumb_url": "https://eshanlee.github.io/kangsi-memes-2015/thumbs/20150101/20150101_001432.000s.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=4hgC8S9Tvs0&t=1432s"
+    },
+    {
+      "id": "20150101_001448.000s",
+      "video_id": "20150101",
+      "time_sec": 1448.0,
+      "timecode": "00:24:08.000",
+      "subtitle": "可能我文筆比你流利",
+      "emotions": [],
+      "image_url": "https://eshanlee.github.io/kangsi-memes-2015/images/20150101/20150101_001448.000s.jpg",
+      "thumb_url": "https://eshanlee.github.io/kangsi-memes-2015/thumbs/20150101/20150101_001448.000s.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=4hgC8S9Tvs0&t=1448s"
+    },
+    {
+      "id": "20150101_001450.000s",
+      "video_id": "20150101",
+      "time_sec": 1450.0,
+      "timecode": "00:24:10.000",
+      "subtitle": "",
+      "emotions": [
+        "中箭"
+      ],
+      "image_url": "https://eshanlee.github.io/kangsi-memes-2015/images/20150101/20150101_001450.000s.jpg",
+      "thumb_url": "https://eshanlee.github.io/kangsi-memes-2015/thumbs/20150101/20150101_001450.000s.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=4hgC8S9Tvs0&t=1450s"
+    },
+    {
+      "id": "20150101_001453.000s",
+      "video_id": "20150101",
+      "time_sec": 1453.0,
+      "timecode": "00:24:13.000",
+      "subtitle": "你還是撐著吧你",
+      "emotions": [],
+      "image_url": "https://eshanlee.github.io/kangsi-memes-2015/images/20150101/20150101_001453.000s.jpg",
+      "thumb_url": "https://eshanlee.github.io/kangsi-memes-2015/thumbs/20150101/20150101_001453.000s.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=4hgC8S9Tvs0&t=1453s"
+    },
+    {
+      "id": "20150101_001707.000s",
+      "video_id": "20150101",
+      "time_sec": 1707.0,
+      "timecode": "00:28:27.000",
+      "subtitle": "辛苦",
+      "emotions": [],
+      "image_url": "https://eshanlee.github.io/kangsi-memes-2015/images/20150101/20150101_001707.000s.jpg",
+      "thumb_url": "https://eshanlee.github.io/kangsi-memes-2015/thumbs/20150101/20150101_001707.000s.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=4hgC8S9Tvs0&t=1707s"
+    },
+    {
+      "id": "20150101_001708.000s",
+      "video_id": "20150101",
+      "time_sec": 1708.0,
+      "timecode": "00:28:28.000",
+      "subtitle": "怎麼可能",
+      "emotions": [],
+      "image_url": "https://eshanlee.github.io/kangsi-memes-2015/images/20150101/20150101_001708.000s.jpg",
+      "thumb_url": "https://eshanlee.github.io/kangsi-memes-2015/thumbs/20150101/20150101_001708.000s.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=4hgC8S9Tvs0&t=1708s"
+    },
+    {
+      "id": "20150101_001743.000s",
+      "video_id": "20150101",
+      "time_sec": 1743.0,
+      "timecode": "00:29:03.000",
+      "subtitle": "不是沒有禮貌的字 可是也不是多有禮貌的字",
+      "emotions": [],
+      "image_url": "https://eshanlee.github.io/kangsi-memes-2015/images/20150101/20150101_001743.000s.jpg",
+      "thumb_url": "https://eshanlee.github.io/kangsi-memes-2015/thumbs/20150101/20150101_001743.000s.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=4hgC8S9Tvs0&t=1743s"
+    },
+    {
+      "id": "20150101_001846.000s",
+      "video_id": "20150101",
+      "time_sec": 1846.0,
+      "timecode": "00:30:46.000",
+      "subtitle": "對",
+      "emotions": [],
+      "image_url": "https://eshanlee.github.io/kangsi-memes-2015/images/20150101/20150101_001846.000s.jpg",
+      "thumb_url": "https://eshanlee.github.io/kangsi-memes-2015/thumbs/20150101/20150101_001846.000s.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=4hgC8S9Tvs0&t=1846s"
+    },
+    {
+      "id": "20150101_001917.000s",
+      "video_id": "20150101",
+      "time_sec": 1917.0,
+      "timecode": "00:31:57.000",
+      "subtitle": "很難得耶",
+      "emotions": [
+        "鬆一口氣"
+      ],
+      "image_url": "https://eshanlee.github.io/kangsi-memes-2015/images/20150101/20150101_001917.000s.jpg",
+      "thumb_url": "https://eshanlee.github.io/kangsi-memes-2015/thumbs/20150101/20150101_001917.000s.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=4hgC8S9Tvs0&t=1917s"
+    },
+    {
+      "id": "20150101_001961.000s",
+      "video_id": "20150101",
+      "time_sec": 1961.0,
+      "timecode": "00:32:41.000",
+      "subtitle": "白眼",
+      "emotions": [
+        "白眼"
+      ],
+      "image_url": "https://eshanlee.github.io/kangsi-memes-2015/images/20150101/20150101_001961.000s.jpg",
+      "thumb_url": "https://eshanlee.github.io/kangsi-memes-2015/thumbs/20150101/20150101_001961.000s.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=4hgC8S9Tvs0&t=1961s"
+    },
+    {
+      "id": "20150101_001997.000s",
+      "video_id": "20150101",
+      "time_sec": 1997.0,
+      "timecode": "00:33:17.000",
+      "subtitle": "我們可以不用做到這件事情",
+      "emotions": [],
+      "image_url": "https://eshanlee.github.io/kangsi-memes-2015/images/20150101/20150101_001997.000s.jpg",
+      "thumb_url": "https://eshanlee.github.io/kangsi-memes-2015/thumbs/20150101/20150101_001997.000s.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=4hgC8S9Tvs0&t=1997s"
+    },
+    {
+      "id": "20150101_002038.000s",
+      "video_id": "20150101",
+      "time_sec": 2038.0,
+      "timecode": "00:33:58.000",
+      "subtitle": "妳有在聽嗎",
+      "emotions": [],
+      "image_url": "https://eshanlee.github.io/kangsi-memes-2015/images/20150101/20150101_002038.000s.jpg",
+      "thumb_url": "https://eshanlee.github.io/kangsi-memes-2015/thumbs/20150101/20150101_002038.000s.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=4hgC8S9Tvs0&t=2038s"
+    },
+    {
+      "id": "20150101_002112.000s",
+      "video_id": "20150101",
+      "time_sec": 2112.0,
+      "timecode": "00:35:12.000",
+      "subtitle": "如果你現在歲數 我當然不可能這樣對你啦",
+      "emotions": [],
+      "image_url": "https://eshanlee.github.io/kangsi-memes-2015/images/20150101/20150101_002112.000s.jpg",
+      "thumb_url": "https://eshanlee.github.io/kangsi-memes-2015/thumbs/20150101/20150101_002112.000s.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=4hgC8S9Tvs0&t=2112s"
+    },
+    {
+      "id": "20150101_002145.000s",
+      "video_id": "20150101",
+      "time_sec": 2145.0,
+      "timecode": "00:35:45.000",
+      "subtitle": "我不要親妳",
+      "emotions": [],
+      "image_url": "https://eshanlee.github.io/kangsi-memes-2015/images/20150101/20150101_002145.000s.jpg",
+      "thumb_url": "https://eshanlee.github.io/kangsi-memes-2015/thumbs/20150101/20150101_002145.000s.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=4hgC8S9Tvs0&t=2145s"
+    },
+    {
+      "id": "20150101_002147.000s",
+      "video_id": "20150101",
+      "time_sec": 2147.0,
+      "timecode": "00:35:47.000",
+      "subtitle": "",
+      "emotions": [
+        "震驚"
+      ],
+      "image_url": "https://eshanlee.github.io/kangsi-memes-2015/images/20150101/20150101_002147.000s.jpg",
+      "thumb_url": "https://eshanlee.github.io/kangsi-memes-2015/thumbs/20150101/20150101_002147.000s.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=4hgC8S9Tvs0&t=2147s"
+    },
+    {
+      "id": "20150101_002154.000s",
+      "video_id": "20150101",
+      "time_sec": 2154.0,
+      "timecode": "00:35:54.000",
+      "subtitle": "你說我能不喝一杯嗎",
+      "emotions": [],
+      "image_url": "https://eshanlee.github.io/kangsi-memes-2015/images/20150101/20150101_002154.000s.jpg",
+      "thumb_url": "https://eshanlee.github.io/kangsi-memes-2015/thumbs/20150101/20150101_002154.000s.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=4hgC8S9Tvs0&t=2154s"
+    },
+    {
+      "id": "20150101_002192.000s",
+      "video_id": "20150101",
+      "time_sec": 2192.0,
+      "timecode": "00:36:32.000",
+      "subtitle": "我其實只是在看你而已",
+      "emotions": [],
+      "image_url": "https://eshanlee.github.io/kangsi-memes-2015/images/20150101/20150101_002192.000s.jpg",
+      "thumb_url": "https://eshanlee.github.io/kangsi-memes-2015/thumbs/20150101/20150101_002192.000s.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=4hgC8S9Tvs0&t=2192s"
+    },
+    {
+      "id": "20150101_002205.000s",
+      "video_id": "20150101",
+      "time_sec": 2205.0,
+      "timecode": "00:36:45.000",
+      "subtitle": "我等一下再解釋",
+      "emotions": [],
+      "image_url": "https://eshanlee.github.io/kangsi-memes-2015/images/20150101/20150101_002205.000s.jpg",
+      "thumb_url": "https://eshanlee.github.io/kangsi-memes-2015/thumbs/20150101/20150101_002205.000s.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=4hgC8S9Tvs0&t=2205s"
+    },
+    {
+      "id": "20150101_002207.000s",
+      "video_id": "20150101",
+      "time_sec": 2207.0,
+      "timecode": "00:36:47.000",
+      "subtitle": "沒有等一下",
+      "emotions": [],
+      "image_url": "https://eshanlee.github.io/kangsi-memes-2015/images/20150101/20150101_002207.000s.jpg",
+      "thumb_url": "https://eshanlee.github.io/kangsi-memes-2015/thumbs/20150101/20150101_002207.000s.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=4hgC8S9Tvs0&t=2207s"
+    },
+    {
+      "id": "20150101_002399.000s",
+      "video_id": "20150101",
+      "time_sec": 2399.0,
+      "timecode": "00:39:59.000",
+      "subtitle": "",
+      "emotions": [
+        "愣"
+      ],
+      "image_url": "https://eshanlee.github.io/kangsi-memes-2015/images/20150101/20150101_002399.000s.jpg",
+      "thumb_url": "https://eshanlee.github.io/kangsi-memes-2015/thumbs/20150101/20150101_002399.000s.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=4hgC8S9Tvs0&t=2399s"
+    },
+    {
+      "id": "20150101_002422.000s",
+      "video_id": "20150101",
+      "time_sec": 2422.0,
+      "timecode": "00:40:22.000",
+      "subtitle": "應該放手就要放",
+      "emotions": [],
+      "image_url": "https://eshanlee.github.io/kangsi-memes-2015/images/20150101/20150101_002422.000s.jpg",
+      "thumb_url": "https://eshanlee.github.io/kangsi-memes-2015/thumbs/20150101/20150101_002422.000s.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=4hgC8S9Tvs0&t=2422s"
+    },
+    {
+      "id": "20150101_002425.000s",
+      "video_id": "20150101",
+      "time_sec": 2425.0,
+      "timecode": "00:40:25.000",
+      "subtitle": "你是在跟自己說話嗎",
+      "emotions": [],
+      "image_url": "https://eshanlee.github.io/kangsi-memes-2015/images/20150101/20150101_002425.000s.jpg",
+      "thumb_url": "https://eshanlee.github.io/kangsi-memes-2015/thumbs/20150101/20150101_002425.000s.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=4hgC8S9Tvs0&t=2425s"
+    },
+    {
+      "id": "20150617_000061.000s",
+      "video_id": "20150617",
+      "time_sec": 61.0,
+      "timecode": "00:01:01.000",
+      "subtitle": "很愛真的超愛",
+      "emotions": [],
+      "image_url": "https://eshanlee.github.io/kangsi-memes-2015/images/20150617/20150617_000061.000s.jpg",
+      "thumb_url": "https://eshanlee.github.io/kangsi-memes-2015/thumbs/20150617/20150617_000061.000s.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=5n9d9GuNz9o&t=61s"
+    },
+    {
+      "id": "20150617_000277.000s",
+      "video_id": "20150617",
+      "time_sec": 277.0,
+      "timecode": "00:04:37.000",
+      "subtitle": "也是有付出愛的幫忙啦",
+      "emotions": [],
+      "image_url": "https://eshanlee.github.io/kangsi-memes-2015/images/20150617/20150617_000277.000s.jpg",
+      "thumb_url": "https://eshanlee.github.io/kangsi-memes-2015/thumbs/20150617/20150617_000277.000s.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=5n9d9GuNz9o&t=277s"
+    },
+    {
+      "id": "20150617_000538.000s",
+      "video_id": "20150617",
+      "time_sec": 538.0,
+      "timecode": "00:08:58.000",
+      "subtitle": "媽我謝謝妳",
+      "emotions": [],
+      "image_url": "https://eshanlee.github.io/kangsi-memes-2015/images/20150617/20150617_000538.000s.jpg",
+      "thumb_url": "https://eshanlee.github.io/kangsi-memes-2015/thumbs/20150617/20150617_000538.000s.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=5n9d9GuNz9o&t=538s"
+    },
+    {
+      "id": "20150617_000779.000s",
+      "video_id": "20150617",
+      "time_sec": 779.0,
+      "timecode": "00:12:59.000",
+      "subtitle": "不是 姐妳聽我說",
+      "emotions": [],
+      "image_url": "https://eshanlee.github.io/kangsi-memes-2015/images/20150617/20150617_000779.000s.jpg",
+      "thumb_url": "https://eshanlee.github.io/kangsi-memes-2015/thumbs/20150617/20150617_000779.000s.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=5n9d9GuNz9o&t=779s"
+    },
+    {
+      "id": "20150617_000840.000s",
+      "video_id": "20150617",
+      "time_sec": 840.0,
+      "timecode": "00:14:00.000",
+      "subtitle": "",
+      "emotions": [
+        "中箭"
+      ],
+      "image_url": "https://eshanlee.github.io/kangsi-memes-2015/images/20150617/20150617_000840.000s.jpg",
+      "thumb_url": "https://eshanlee.github.io/kangsi-memes-2015/thumbs/20150617/20150617_000840.000s.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=5n9d9GuNz9o&t=840s"
+    },
+    {
+      "id": "20150617_000936.000s",
+      "video_id": "20150617",
+      "time_sec": 936.0,
+      "timecode": "00:15:36.000",
+      "subtitle": "兩個人大開黃腔",
+      "emotions": [],
+      "image_url": "https://eshanlee.github.io/kangsi-memes-2015/images/20150617/20150617_000936.000s.jpg",
+      "thumb_url": "https://eshanlee.github.io/kangsi-memes-2015/thumbs/20150617/20150617_000936.000s.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=5n9d9GuNz9o&t=936s"
+    },
+    {
+      "id": "20150617_000974.000s",
+      "video_id": "20150617",
+      "time_sec": 974.0,
+      "timecode": "00:16:14.000",
+      "subtitle": "我是要握著妳的手",
+      "emotions": [],
+      "image_url": "https://eshanlee.github.io/kangsi-memes-2015/images/20150617/20150617_000974.000s.jpg",
+      "thumb_url": "https://eshanlee.github.io/kangsi-memes-2015/thumbs/20150617/20150617_000974.000s.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=5n9d9GuNz9o&t=974s"
+    },
+    {
+      "id": "20150617_000978.000s",
+      "video_id": "20150617",
+      "time_sec": 978.0,
+      "timecode": "00:16:18.000",
+      "subtitle": "妳看他多自私",
+      "emotions": [],
+      "image_url": "https://eshanlee.github.io/kangsi-memes-2015/images/20150617/20150617_000978.000s.jpg",
+      "thumb_url": "https://eshanlee.github.io/kangsi-memes-2015/thumbs/20150617/20150617_000978.000s.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=5n9d9GuNz9o&t=978s"
+    },
+    {
+      "id": "20150617_001058.000s",
+      "video_id": "20150617",
+      "time_sec": 1058.0,
+      "timecode": "00:17:38.000",
+      "subtitle": "如果張蘭在現場 根本就是她開刀好不好",
+      "emotions": [],
+      "image_url": "https://eshanlee.github.io/kangsi-memes-2015/images/20150617/20150617_001058.000s.jpg",
+      "thumb_url": "https://eshanlee.github.io/kangsi-memes-2015/thumbs/20150617/20150617_001058.000s.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=5n9d9GuNz9o&t=1058s"
+    },
+    {
+      "id": "20150617_001422.000s",
+      "video_id": "20150617",
+      "time_sec": 1422.0,
+      "timecode": "00:23:42.000",
+      "subtitle": "我插個話喔不好意思",
+      "emotions": [],
+      "image_url": "https://eshanlee.github.io/kangsi-memes-2015/images/20150617/20150617_001422.000s.jpg",
+      "thumb_url": "https://eshanlee.github.io/kangsi-memes-2015/thumbs/20150617/20150617_001422.000s.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=5n9d9GuNz9o&t=1422s"
+    },
+    {
+      "id": "20150617_001553.000s",
+      "video_id": "20150617",
+      "time_sec": 1553.0,
+      "timecode": "00:25:53.000",
+      "subtitle": "現在是在講自己的故事嗎",
+      "emotions": [],
+      "image_url": "https://eshanlee.github.io/kangsi-memes-2015/images/20150617/20150617_001553.000s.jpg",
+      "thumb_url": "https://eshanlee.github.io/kangsi-memes-2015/thumbs/20150617/20150617_001553.000s.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=5n9d9GuNz9o&t=1553s"
+    },
+    {
+      "id": "20150617_001585.000s",
+      "video_id": "20150617",
+      "time_sec": 1585.0,
+      "timecode": "00:26:25.000",
+      "subtitle": "",
+      "emotions": [
+        "哭"
+      ],
+      "image_url": "https://eshanlee.github.io/kangsi-memes-2015/images/20150617/20150617_001585.000s.jpg",
+      "thumb_url": "https://eshanlee.github.io/kangsi-memes-2015/thumbs/20150617/20150617_001585.000s.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=5n9d9GuNz9o&t=1585s"
+    },
+    {
+      "id": "20150617_001605.000s",
+      "video_id": "20150617",
+      "time_sec": 1605.0,
+      "timecode": "00:26:45.000",
+      "subtitle": "你不會拿兩張啊",
+      "emotions": [],
+      "image_url": "https://eshanlee.github.io/kangsi-memes-2015/images/20150617/20150617_001605.000s.jpg",
+      "thumb_url": "https://eshanlee.github.io/kangsi-memes-2015/thumbs/20150617/20150617_001605.000s.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=5n9d9GuNz9o&t=1605s"
+    },
+    {
+      "id": "20150617_001677.000s",
+      "video_id": "20150617",
+      "time_sec": 1677.0,
+      "timecode": "00:27:57.000",
+      "subtitle": "因為那時候 我就還蠻想休息的",
+      "emotions": [],
+      "image_url": "https://eshanlee.github.io/kangsi-memes-2015/images/20150617/20150617_001677.000s.jpg",
+      "thumb_url": "https://eshanlee.github.io/kangsi-memes-2015/thumbs/20150617/20150617_001677.000s.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=5n9d9GuNz9o&t=1677s"
+    },
+    {
+      "id": "20150617_001705.000s",
+      "video_id": "20150617",
+      "time_sec": 1705.0,
+      "timecode": "00:28:25.000",
+      "subtitle": "妳跟大雙眼皮 跟嘴唇很厚的人道歉",
+      "emotions": [],
+      "image_url": "https://eshanlee.github.io/kangsi-memes-2015/images/20150617/20150617_001705.000s.jpg",
+      "thumb_url": "https://eshanlee.github.io/kangsi-memes-2015/thumbs/20150617/20150617_001705.000s.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=5n9d9GuNz9o&t=1705s"
+    },
+    {
+      "id": "20150617_001720.000s",
+      "video_id": "20150617",
+      "time_sec": 1720.0,
+      "timecode": "00:28:40.000",
+      "subtitle": "妳跟奶粉廣告的Model道歉",
+      "emotions": [],
+      "image_url": "https://eshanlee.github.io/kangsi-memes-2015/images/20150617/20150617_001720.000s.jpg",
+      "thumb_url": "https://eshanlee.github.io/kangsi-memes-2015/thumbs/20150617/20150617_001720.000s.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=5n9d9GuNz9o&t=1720s"
+    },
+    {
+      "id": "20150617_002096.000s",
+      "video_id": "20150617",
+      "time_sec": 2096.0,
+      "timecode": "00:34:56.000",
+      "subtitle": "妳先不要吵讓我講",
+      "emotions": [],
+      "image_url": "https://eshanlee.github.io/kangsi-memes-2015/images/20150617/20150617_002096.000s.jpg",
+      "thumb_url": "https://eshanlee.github.io/kangsi-memes-2015/thumbs/20150617/20150617_002096.000s.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=5n9d9GuNz9o&t=2096s"
+    },
+    {
+      "id": "20150617_002127.000s",
+      "video_id": "20150617",
+      "time_sec": 2127.0,
+      "timecode": "00:35:27.000",
+      "subtitle": "你說他是不是在針對我",
+      "emotions": [],
+      "image_url": "https://eshanlee.github.io/kangsi-memes-2015/images/20150617/20150617_002127.000s.jpg",
+      "thumb_url": "https://eshanlee.github.io/kangsi-memes-2015/thumbs/20150617/20150617_002127.000s.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=5n9d9GuNz9o&t=2127s"
+    },
+    {
+      "id": "20150617_002149.000s",
+      "video_id": "20150617",
+      "time_sec": 2149.0,
+      "timecode": "00:35:49.000",
+      "subtitle": "",
+      "emotions": [
+        "竊笑"
+      ],
+      "image_url": "https://eshanlee.github.io/kangsi-memes-2015/images/20150617/20150617_002149.000s.jpg",
+      "thumb_url": "https://eshanlee.github.io/kangsi-memes-2015/thumbs/20150617/20150617_002149.000s.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=5n9d9GuNz9o&t=2149s"
+    },
+    {
+      "id": "20150617_002185.000s",
+      "video_id": "20150617",
+      "time_sec": 2185.0,
+      "timecode": "00:36:25.000",
+      "subtitle": "又在那邊吵還穿這樣",
+      "emotions": [],
+      "image_url": "https://eshanlee.github.io/kangsi-memes-2015/images/20150617/20150617_002185.000s.jpg",
+      "thumb_url": "https://eshanlee.github.io/kangsi-memes-2015/thumbs/20150617/20150617_002185.000s.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=5n9d9GuNz9o&t=2185s"
+    },
+    {
+      "id": "20150617_002205.000s",
+      "video_id": "20150617",
+      "time_sec": 2205.0,
+      "timecode": "00:36:45.000",
+      "subtitle": "土包子",
+      "emotions": [],
+      "image_url": "https://eshanlee.github.io/kangsi-memes-2015/images/20150617/20150617_002205.000s.jpg",
+      "thumb_url": "https://eshanlee.github.io/kangsi-memes-2015/thumbs/20150617/20150617_002205.000s.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=5n9d9GuNz9o&t=2205s"
+    },
+    {
+      "id": "20150617_002341.000s",
+      "video_id": "20150617",
+      "time_sec": 2341.0,
+      "timecode": "00:39:01.000",
+      "subtitle": "我的心肝肝我的心肝肝 怎麼了小肉球",
+      "emotions": [],
+      "image_url": "https://eshanlee.github.io/kangsi-memes-2015/images/20150617/20150617_002341.000s.jpg",
+      "thumb_url": "https://eshanlee.github.io/kangsi-memes-2015/thumbs/20150617/20150617_002341.000s.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=5n9d9GuNz9o&t=2341s"
+    },
+    {
+      "id": "20150617_002380.000s",
+      "video_id": "20150617",
+      "time_sec": 2380.0,
+      "timecode": "00:39:40.000",
+      "subtitle": "要幫妳們拿兵器來嗎",
+      "emotions": [],
+      "image_url": "https://eshanlee.github.io/kangsi-memes-2015/images/20150617/20150617_002380.000s.jpg",
+      "thumb_url": "https://eshanlee.github.io/kangsi-memes-2015/thumbs/20150617/20150617_002380.000s.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=5n9d9GuNz9o&t=2380s"
+    },
+    {
+      "id": "20150617_002661.000s",
+      "video_id": "20150617",
+      "time_sec": 2661.0,
+      "timecode": "00:44:21.000",
+      "subtitle": "你的秤一定是壞了",
+      "emotions": [],
+      "image_url": "https://eshanlee.github.io/kangsi-memes-2015/images/20150617/20150617_002661.000s.jpg",
+      "thumb_url": "https://eshanlee.github.io/kangsi-memes-2015/thumbs/20150617/20150617_002661.000s.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=5n9d9GuNz9o&t=2661s"
+    }
+  ]
+}
