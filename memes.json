@@ -1,8 +1,9 @@
 {
-  "generated_at": "2026-10-08T14:23:31",
+  "generated_at": "2026-10-08T15:59:40",
   "base_url": "https://eshanlee.github.io/kangsi-memes-2015",
   "n_episodes": 2,
   "n_memes": 68,
+  "n_videos": 0,
   "emotions": {
     "中箭": [
       "中槍",
@@ -82,10 +83,12 @@
   },
   "episodes": {
     "20150101": {
+      "ep_no": 2849,
       "title": "康熙年度總結大會親子篇",
       "air_date": "2015-01-01",
       "youtube_id": "4hgC8S9Tvs0",
       "url": "https://www.youtube.com/watch?v=4hgC8S9Tvs0",
+      "views": null,
       "hosts": [
         "蔡康永",
         "小S"
@@ -104,10 +107,12 @@
       ]
     },
     "20150617": {
+      "ep_no": 2966,
       "title": "大S的愛女狂想曲I",
       "air_date": "2015-06-17",
       "youtube_id": "5n9d9GuNz9o",
       "url": "https://www.youtube.com/watch?v=5n9d9GuNz9o",
+      "views": 7888566,
       "hosts": [
         "蔡康永",
         "小S"
@@ -120,6 +125,7 @@
   },
   "memes": [
     {
+      "no": 1,
       "id": "20150101_000087.000s",
       "video_id": "20150101",
       "time_sec": 87.0,
@@ -131,6 +137,7 @@
       "youtube_url": "https://www.youtube.com/watch?v=4hgC8S9Tvs0&t=87s"
     },
     {
+      "no": 2,
       "id": "20150101_000103.000s",
       "video_id": "20150101",
       "time_sec": 103.0,
@@ -142,6 +149,7 @@
       "youtube_url": "https://www.youtube.com/watch?v=4hgC8S9Tvs0&t=103s"
     },
     {
+      "no": 3,
       "id": "20150101_000105.000s",
       "video_id": "20150101",
       "time_sec": 105.0,
@@ -155,6 +163,7 @@
       "youtube_url": "https://www.youtube.com/watch?v=4hgC8S9Tvs0&t=105s"
     },
     {
+      "no": 4,
       "id": "20150101_000108.000s",
       "video_id": "20150101",
       "time_sec": 108.0,
@@ -166,6 +175,7 @@
       "youtube_url": "https://www.youtube.com/watch?v=4hgC8S9Tvs0&t=108s"
     },
     {
+      "no": 5,
       "id": "20150101_000166.000s",
       "video_id": "20150101",
       "time_sec": 166.0,
@@ -177,6 +187,7 @@
       "youtube_url": "https://www.youtube.com/watch?v=4hgC8S9Tvs0&t=166s"
     },
     {
+      "no": 6,
       "id": "20150101_000167.000s",
       "video_id": "20150101",
       "time_sec": 167.0,
@@ -188,6 +199,7 @@
       "youtube_url": "https://www.youtube.com/watch?v=4hgC8S9Tvs0&t=167s"
     },
     {
+      "no": 7,
       "id": "20150101_000168.000s",
       "video_id": "20150101",
       "time_sec": 168.0,
@@ -199,6 +211,7 @@
       "youtube_url": "https://www.youtube.com/watch?v=4hgC8S9Tvs0&t=168s"
     },
     {
+      "no": 8,
       "id": "20150101_000178.000s",
       "video_id": "20150101",
       "time_sec": 178.0,
@@ -210,6 +223,7 @@
       "youtube_url": "https://www.youtube.com/watch?v=4hgC8S9Tvs0&t=178s"
     },
     {
+      "no": 9,
       "id": "20150101_000285.000s",
       "video_id": "20150101",
       "time_sec": 285.0,
@@ -221,6 +235,7 @@
       "youtube_url": "https://www.youtube.com/watch?v=4hgC8S9Tvs0&t=285s"
     },
     {
+      "no": 10,
       "id": "20150101_000437.000s",
       "video_id": "20150101",
       "time_sec": 437.0,
@@ -232,6 +247,7 @@
       "youtube_url": "https://www.youtube.com/watch?v=4hgC8S9Tvs0&t=437s"
     },
     {
+      "no": 11,
       "id": "20150101_000451.000s",
       "video_id": "20150101",
       "time_sec": 451.0,
@@ -243,6 +259,7 @@
       "youtube_url": "https://www.youtube.com/watch?v=4hgC8S9Tvs0&t=451s"
     },
     {
+      "no": 12,
       "id": "20150101_000651.000s",
       "video_id": "20150101",
       "time_sec": 651.0,
@@ -254,6 +271,7 @@
       "youtube_url": "https://www.youtube.com/watch?v=4hgC8S9Tvs0&t=651s"
     },
     {
+      "no": 13,
       "id": "20150101_000657.000s",
       "video_id": "20150101",
       "time_sec": 657.0,
@@ -265,6 +283,7 @@
       "youtube_url": "https://www.youtube.com/watch?v=4hgC8S9Tvs0&t=657s"
     },
     {
+      "no": 14,
       "id": "20150101_000734.000s",
       "video_id": "20150101",
       "time_sec": 734.0,
@@ -278,6 +297,7 @@
       "youtube_url": "https://www.youtube.com/watch?v=4hgC8S9Tvs0&t=734s"
     },
     {
+      "no": 15,
       "id": "20150101_000738.000s",
       "video_id": "20150101",
       "time_sec": 738.0,
@@ -291,6 +311,7 @@
       "youtube_url": "https://www.youtube.com/watch?v=4hgC8S9Tvs0&t=738s"
     },
     {
+      "no": 16,
       "id": "20150101_000784.000s",
       "video_id": "20150101",
       "time_sec": 784.0,
@@ -304,6 +325,7 @@
       "youtube_url": "https://www.youtube.com/watch?v=4hgC8S9Tvs0&t=784s"
     },
     {
+      "no": 17,
       "id": "20150101_000826.000s",
       "video_id": "20150101",
       "time_sec": 826.0,
@@ -315,6 +337,7 @@
       "youtube_url": "https://www.youtube.com/watch?v=4hgC8S9Tvs0&t=826s"
     },
     {
+      "no": 18,
       "id": "20150101_000962.000s",
       "video_id": "20150101",
       "time_sec": 962.0,
@@ -326,6 +349,7 @@
       "youtube_url": "https://www.youtube.com/watch?v=4hgC8S9Tvs0&t=962s"
     },
     {
+      "no": 19,
       "id": "20150101_001113.000s",
       "video_id": "20150101",
       "time_sec": 1113.0,
@@ -337,6 +361,7 @@
       "youtube_url": "https://www.youtube.com/watch?v=4hgC8S9Tvs0&t=1113s"
     },
     {
+      "no": 20,
       "id": "20150101_001373.000s",
       "video_id": "20150101",
       "time_sec": 1373.0,
@@ -348,6 +373,7 @@
       "youtube_url": "https://www.youtube.com/watch?v=4hgC8S9Tvs0&t=1373s"
     },
     {
+      "no": 21,
       "id": "20150101_001403.000s",
       "video_id": "20150101",
       "time_sec": 1403.0,
@@ -359,6 +385,7 @@
       "youtube_url": "https://www.youtube.com/watch?v=4hgC8S9Tvs0&t=1403s"
     },
     {
+      "no": 22,
       "id": "20150101_001431.000s",
       "video_id": "20150101",
       "time_sec": 1431.0,
@@ -370,6 +397,7 @@
       "youtube_url": "https://www.youtube.com/watch?v=4hgC8S9Tvs0&t=1431s"
     },
     {
+      "no": 23,
       "id": "20150101_001432.000s",
       "video_id": "20150101",
       "time_sec": 1432.0,
@@ -381,6 +409,7 @@
       "youtube_url": "https://www.youtube.com/watch?v=4hgC8S9Tvs0&t=1432s"
     },
     {
+      "no": 24,
       "id": "20150101_001448.000s",
       "video_id": "20150101",
       "time_sec": 1448.0,
@@ -392,6 +421,7 @@
       "youtube_url": "https://www.youtube.com/watch?v=4hgC8S9Tvs0&t=1448s"
     },
     {
+      "no": 25,
       "id": "20150101_001450.000s",
       "video_id": "20150101",
       "time_sec": 1450.0,
@@ -405,6 +435,7 @@
       "youtube_url": "https://www.youtube.com/watch?v=4hgC8S9Tvs0&t=1450s"
     },
     {
+      "no": 26,
       "id": "20150101_001453.000s",
       "video_id": "20150101",
       "time_sec": 1453.0,
@@ -416,6 +447,7 @@
       "youtube_url": "https://www.youtube.com/watch?v=4hgC8S9Tvs0&t=1453s"
     },
     {
+      "no": 27,
       "id": "20150101_001707.000s",
       "video_id": "20150101",
       "time_sec": 1707.0,
@@ -427,6 +459,7 @@
       "youtube_url": "https://www.youtube.com/watch?v=4hgC8S9Tvs0&t=1707s"
     },
     {
+      "no": 28,
       "id": "20150101_001708.000s",
       "video_id": "20150101",
       "time_sec": 1708.0,
@@ -438,6 +471,7 @@
       "youtube_url": "https://www.youtube.com/watch?v=4hgC8S9Tvs0&t=1708s"
     },
     {
+      "no": 29,
       "id": "20150101_001743.000s",
       "video_id": "20150101",
       "time_sec": 1743.0,
@@ -449,6 +483,7 @@
       "youtube_url": "https://www.youtube.com/watch?v=4hgC8S9Tvs0&t=1743s"
     },
     {
+      "no": 30,
       "id": "20150101_001846.000s",
       "video_id": "20150101",
       "time_sec": 1846.0,
@@ -460,6 +495,7 @@
       "youtube_url": "https://www.youtube.com/watch?v=4hgC8S9Tvs0&t=1846s"
     },
     {
+      "no": 31,
       "id": "20150101_001917.000s",
       "video_id": "20150101",
       "time_sec": 1917.0,
@@ -473,6 +509,7 @@
       "youtube_url": "https://www.youtube.com/watch?v=4hgC8S9Tvs0&t=1917s"
     },
     {
+      "no": 32,
       "id": "20150101_001961.000s",
       "video_id": "20150101",
       "time_sec": 1961.0,
@@ -486,6 +523,7 @@
       "youtube_url": "https://www.youtube.com/watch?v=4hgC8S9Tvs0&t=1961s"
     },
     {
+      "no": 33,
       "id": "20150101_001997.000s",
       "video_id": "20150101",
       "time_sec": 1997.0,
@@ -497,6 +535,7 @@
       "youtube_url": "https://www.youtube.com/watch?v=4hgC8S9Tvs0&t=1997s"
     },
     {
+      "no": 34,
       "id": "20150101_002038.000s",
       "video_id": "20150101",
       "time_sec": 2038.0,
@@ -508,6 +547,7 @@
       "youtube_url": "https://www.youtube.com/watch?v=4hgC8S9Tvs0&t=2038s"
     },
     {
+      "no": 35,
       "id": "20150101_002112.000s",
       "video_id": "20150101",
       "time_sec": 2112.0,
@@ -519,6 +559,7 @@
       "youtube_url": "https://www.youtube.com/watch?v=4hgC8S9Tvs0&t=2112s"
     },
     {
+      "no": 36,
       "id": "20150101_002145.000s",
       "video_id": "20150101",
       "time_sec": 2145.0,
@@ -530,6 +571,7 @@
       "youtube_url": "https://www.youtube.com/watch?v=4hgC8S9Tvs0&t=2145s"
     },
     {
+      "no": 37,
       "id": "20150101_002147.000s",
       "video_id": "20150101",
       "time_sec": 2147.0,
@@ -543,6 +585,7 @@
       "youtube_url": "https://www.youtube.com/watch?v=4hgC8S9Tvs0&t=2147s"
     },
     {
+      "no": 38,
       "id": "20150101_002154.000s",
       "video_id": "20150101",
       "time_sec": 2154.0,
@@ -554,6 +597,7 @@
       "youtube_url": "https://www.youtube.com/watch?v=4hgC8S9Tvs0&t=2154s"
     },
     {
+      "no": 39,
       "id": "20150101_002192.000s",
       "video_id": "20150101",
       "time_sec": 2192.0,
@@ -565,6 +609,7 @@
       "youtube_url": "https://www.youtube.com/watch?v=4hgC8S9Tvs0&t=2192s"
     },
     {
+      "no": 40,
       "id": "20150101_002205.000s",
       "video_id": "20150101",
       "time_sec": 2205.0,
@@ -576,6 +621,7 @@
       "youtube_url": "https://www.youtube.com/watch?v=4hgC8S9Tvs0&t=2205s"
     },
     {
+      "no": 41,
       "id": "20150101_002207.000s",
       "video_id": "20150101",
       "time_sec": 2207.0,
@@ -587,6 +633,7 @@
       "youtube_url": "https://www.youtube.com/watch?v=4hgC8S9Tvs0&t=2207s"
     },
     {
+      "no": 42,
       "id": "20150101_002399.000s",
       "video_id": "20150101",
       "time_sec": 2399.0,
@@ -600,6 +647,7 @@
       "youtube_url": "https://www.youtube.com/watch?v=4hgC8S9Tvs0&t=2399s"
     },
     {
+      "no": 43,
       "id": "20150101_002422.000s",
       "video_id": "20150101",
       "time_sec": 2422.0,
@@ -611,6 +659,7 @@
       "youtube_url": "https://www.youtube.com/watch?v=4hgC8S9Tvs0&t=2422s"
     },
     {
+      "no": 44,
       "id": "20150101_002425.000s",
       "video_id": "20150101",
       "time_sec": 2425.0,
@@ -622,6 +671,7 @@
       "youtube_url": "https://www.youtube.com/watch?v=4hgC8S9Tvs0&t=2425s"
     },
     {
+      "no": 48,
       "id": "20150617_000061.000s",
       "video_id": "20150617",
       "time_sec": 61.0,
@@ -633,6 +683,7 @@
       "youtube_url": "https://www.youtube.com/watch?v=5n9d9GuNz9o&t=61s"
     },
     {
+      "no": 53,
       "id": "20150617_000277.000s",
       "video_id": "20150617",
       "time_sec": 277.0,
@@ -644,6 +695,7 @@
       "youtube_url": "https://www.youtube.com/watch?v=5n9d9GuNz9o&t=277s"
     },
     {
+      "no": 55,
       "id": "20150617_000538.000s",
       "video_id": "20150617",
       "time_sec": 538.0,
@@ -655,6 +707,7 @@
       "youtube_url": "https://www.youtube.com/watch?v=5n9d9GuNz9o&t=538s"
     },
     {
+      "no": 59,
       "id": "20150617_000779.000s",
       "video_id": "20150617",
       "time_sec": 779.0,
@@ -666,6 +719,7 @@
       "youtube_url": "https://www.youtube.com/watch?v=5n9d9GuNz9o&t=779s"
     },
     {
+      "no": 60,
       "id": "20150617_000840.000s",
       "video_id": "20150617",
       "time_sec": 840.0,
@@ -679,6 +733,7 @@
       "youtube_url": "https://www.youtube.com/watch?v=5n9d9GuNz9o&t=840s"
     },
     {
+      "no": 64,
       "id": "20150617_000936.000s",
       "video_id": "20150617",
       "time_sec": 936.0,
@@ -690,6 +745,7 @@
       "youtube_url": "https://www.youtube.com/watch?v=5n9d9GuNz9o&t=936s"
     },
     {
+      "no": 65,
       "id": "20150617_000974.000s",
       "video_id": "20150617",
       "time_sec": 974.0,
@@ -701,6 +757,7 @@
       "youtube_url": "https://www.youtube.com/watch?v=5n9d9GuNz9o&t=974s"
     },
     {
+      "no": 66,
       "id": "20150617_000978.000s",
       "video_id": "20150617",
       "time_sec": 978.0,
@@ -712,6 +769,7 @@
       "youtube_url": "https://www.youtube.com/watch?v=5n9d9GuNz9o&t=978s"
     },
     {
+      "no": 67,
       "id": "20150617_001058.000s",
       "video_id": "20150617",
       "time_sec": 1058.0,
@@ -723,6 +781,7 @@
       "youtube_url": "https://www.youtube.com/watch?v=5n9d9GuNz9o&t=1058s"
     },
     {
+      "no": 69,
       "id": "20150617_001422.000s",
       "video_id": "20150617",
       "time_sec": 1422.0,
@@ -734,6 +793,7 @@
       "youtube_url": "https://www.youtube.com/watch?v=5n9d9GuNz9o&t=1422s"
     },
     {
+      "no": 71,
       "id": "20150617_001553.000s",
       "video_id": "20150617",
       "time_sec": 1553.0,
@@ -745,6 +805,7 @@
       "youtube_url": "https://www.youtube.com/watch?v=5n9d9GuNz9o&t=1553s"
     },
     {
+      "no": 72,
       "id": "20150617_001585.000s",
       "video_id": "20150617",
       "time_sec": 1585.0,
@@ -758,6 +819,7 @@
       "youtube_url": "https://www.youtube.com/watch?v=5n9d9GuNz9o&t=1585s"
     },
     {
+      "no": 73,
       "id": "20150617_001605.000s",
       "video_id": "20150617",
       "time_sec": 1605.0,
@@ -769,6 +831,7 @@
       "youtube_url": "https://www.youtube.com/watch?v=5n9d9GuNz9o&t=1605s"
     },
     {
+      "no": 74,
       "id": "20150617_001677.000s",
       "video_id": "20150617",
       "time_sec": 1677.0,
@@ -780,6 +843,7 @@
       "youtube_url": "https://www.youtube.com/watch?v=5n9d9GuNz9o&t=1677s"
     },
     {
+      "no": 75,
       "id": "20150617_001705.000s",
       "video_id": "20150617",
       "time_sec": 1705.0,
@@ -791,6 +855,7 @@
       "youtube_url": "https://www.youtube.com/watch?v=5n9d9GuNz9o&t=1705s"
     },
     {
+      "no": 76,
       "id": "20150617_001720.000s",
       "video_id": "20150617",
       "time_sec": 1720.0,
@@ -802,6 +867,7 @@
       "youtube_url": "https://www.youtube.com/watch?v=5n9d9GuNz9o&t=1720s"
     },
     {
+      "no": 79,
       "id": "20150617_002096.000s",
       "video_id": "20150617",
       "time_sec": 2096.0,
@@ -813,6 +879,7 @@
       "youtube_url": "https://www.youtube.com/watch?v=5n9d9GuNz9o&t=2096s"
     },
     {
+      "no": 80,
       "id": "20150617_002127.000s",
       "video_id": "20150617",
       "time_sec": 2127.0,
@@ -824,6 +891,7 @@
       "youtube_url": "https://www.youtube.com/watch?v=5n9d9GuNz9o&t=2127s"
     },
     {
+      "no": 81,
       "id": "20150617_002149.000s",
       "video_id": "20150617",
       "time_sec": 2149.0,
@@ -837,6 +905,7 @@
       "youtube_url": "https://www.youtube.com/watch?v=5n9d9GuNz9o&t=2149s"
     },
     {
+      "no": 82,
       "id": "20150617_002185.000s",
       "video_id": "20150617",
       "time_sec": 2185.0,
@@ -848,6 +917,7 @@
       "youtube_url": "https://www.youtube.com/watch?v=5n9d9GuNz9o&t=2185s"
     },
     {
+      "no": 83,
       "id": "20150617_002205.000s",
       "video_id": "20150617",
       "time_sec": 2205.0,
@@ -859,6 +929,7 @@
       "youtube_url": "https://www.youtube.com/watch?v=5n9d9GuNz9o&t=2205s"
     },
     {
+      "no": 84,
       "id": "20150617_002341.000s",
       "video_id": "20150617",
       "time_sec": 2341.0,
@@ -870,6 +941,7 @@
       "youtube_url": "https://www.youtube.com/watch?v=5n9d9GuNz9o&t=2341s"
     },
     {
+      "no": 85,
       "id": "20150617_002380.000s",
       "video_id": "20150617",
       "time_sec": 2380.0,
@@ -881,6 +953,7 @@
       "youtube_url": "https://www.youtube.com/watch?v=5n9d9GuNz9o&t=2380s"
     },
     {
+      "no": 86,
       "id": "20150617_002661.000s",
       "video_id": "20150617",
       "time_sec": 2661.0,
@@ -891,5 +964,6 @@
       "thumb_url": "https://eshanlee.github.io/kangsi-memes-2015/thumbs/20150617/20150617_002661.000s.jpg",
       "youtube_url": "https://www.youtube.com/watch?v=5n9d9GuNz9o&t=2661s"
     }
-  ]
+  ],
+  "videos": []
 }
